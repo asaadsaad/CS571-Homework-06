@@ -8,8 +8,8 @@ Update your Tabata application to accept the following inputs:
 All three inputs should be displayed in a single row.
   
 ## Workouts List
-Save all of the user's workouts in the form of:
+Save all of the user's completed workouts in the form of:
 ```javascript
 [ {year: '2020' , month: '04', day: '28'} ]
 ```
-Use `FlatList` to display all of the workouts under a section called: Previous Workouts in your homepage.
+Use `FlatList` component to display all of the workouts under a section called: **Previous Workouts** in your homepage.
