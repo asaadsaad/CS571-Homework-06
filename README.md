@@ -17,4 +17,4 @@ Save all of the user's completed workouts in the form of:
 ```javascript
 [ {year: '2020' , month: '04', day: '28'} ]
 ```
-Use `FlatList` component to display all of the workouts under a section called: **Previous Workouts** in your home screen.
+Use `FlatList` component to display all of the workouts When users click a button: **Previous Workouts** from your home screen.
