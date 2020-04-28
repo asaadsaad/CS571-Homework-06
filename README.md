@@ -1,5 +1,6 @@
 # CS571-Homework-06
 ## Updates to Tabata App
+Previously, we created a Tabata application that has 10 sets/cycles by default. Also a preset workout/rest time of 20/10.  
 Update your Tabata application to accept the following inputs:
 * Number of sets/cycles
 * Number of seconds for workout
