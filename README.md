@@ -10,7 +10,7 @@ Update your Tabata application to accept the following inputs:
 * Number of seconds for workout
 * Number of seconds for rest
   
-All three inputs should be displayed in a single row.
+All three inputs should be displayed in a single row, above your **Start Workout** button.
   
 ### Workouts List
 Save all of the user's completed workouts in the form of:
