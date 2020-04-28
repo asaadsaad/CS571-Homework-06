@@ -1,5 +1,5 @@
 # CS571-Homework-06
-## Updates to Tabata App
+## Updates to Tabata Timer App
 ### Add Logo
 Add your logo image to be displayed in the top middle section of your home screen. (Bare in mind platform compatibility)
   
