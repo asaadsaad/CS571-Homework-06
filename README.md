@@ -15,6 +15,6 @@ All three inputs should be displayed in a single row, above your **Start Workout
 ### Workouts List
 Save all of the user's completed workouts in the form of:
 ```javascript
-[ {year: '2020' , month: '04', day: '28'} ]
+[ {year: '2020' , month: '04', day: '28', hour: '22', minute:'30'} ]
 ```
 Use `FlatList` component to display all of the workouts When users click a button: **Previous Workouts** from your home screen.
