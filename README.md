@@ -4,7 +4,7 @@
 Add your logo image to be displayed in the top middle section of your home screen. (Bare in mind platform compatibility)
   
 ### Add Inputs
-Previously, we created a Tabata application that has 10 sets/cycles by default. Also a preset workout/rest time of 20/10.  
+Previously, we created a Tabata application that has 10 sets/cycles by default. Also a preset workout/rest time of 20/10 seconds.  
 Update your Tabata application to accept the following inputs:
 * Number of sets/cycles
 * Number of seconds for workout
