@@ -18,3 +18,14 @@ Save all of the user's completed workouts in the form of:
 [ {year: '2020' , month: '04', day: '28', hour: '22', minute:'30'} ]
 ```
 Use `FlatList` component to display all of the workouts When users click a button: **Previous Workouts** from your home screen.
+  
+### Application Sketch
+      <LOGO>
+      00:00
+
+Sets   Workout   Rest
+[10]    [20]     [10]
+
+ <START> || <STOP>
+ 
+<Previous Workouts>
