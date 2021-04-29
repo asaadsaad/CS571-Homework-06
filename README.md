@@ -13,7 +13,7 @@ Update your Tabata application to accept the following inputs:
 All three inputs should be displayed in a single row, above your **Start Workout** button.
   
 ### Workouts List
-Save all of the user's completed workouts in the form of:
+Use Context to save all of the user's completed workouts in the form of:
 ```javascript
 [ {year: '2020' , month: '04', day: '28', hour: '22', minute:'30'} ]
 ```
