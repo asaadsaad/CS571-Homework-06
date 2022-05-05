@@ -21,13 +21,13 @@ Use AsyncStorage to save all meditations in the phone for next loading app.
 
 ### Application Sketch
 ```
-      <LOGO>
-      0000
+    <LOGO>
+      0
 
-Meditation   Rest
-[600]         [120]
+Meditation    Rest
+  [600]      [120]
 
- <START> || <STOP> || <PAUSE/RESUME>
+<START> || <STOP> || <PAUSE/RESUME>
  
 <Meditation History>
 ```
