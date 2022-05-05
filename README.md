@@ -8,7 +8,7 @@ Previously, we created a Meditation application that has 10 mins meditation + 2 
 * Number of seconds for meditation
 * Number of seconds for rest
   
-All inputs should be displayed in a single row, above your **Start Meditation** button.
+All inputs should be displayed in a single row, above your **Start Meditation** button. By default all buttons are disabled except for **Start Meditation** button, which should be disabled once the meditation is active, and all other buttons are enabled. 
   
 ### Meditation History List
 Use Context to save all of the user's completed workouts in the form of:
