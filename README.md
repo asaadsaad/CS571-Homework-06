@@ -25,7 +25,7 @@ Use AsyncStorage to save all meditations in the phone for next loading app.
       0000
 
 Meditation   Rest
-[10]         [2]
+[600]         [120]
 
  <START> || <STOP> || <PAUSE/RESUME>
  
